@@ -9,7 +9,7 @@ This is a voice-based assistant built using **HTML, CSS, and JavaScript**. It ca
 - HTML
 - CSS
 - JavaScript
-- Web Speech API
+  
 
 ## ✨ Features
 - Voice recognition
